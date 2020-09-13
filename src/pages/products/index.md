@@ -71,6 +71,8 @@ testimonials:
       torquent sapien sodales tellus sollicitudin molestie donec lacinia
       ridiculus scelerisque adipiscing
     author: Mattis faucibus
+  - quote: asdasdasd
+    author: asdasdasda
 full_image: /img/products-full-width.jpg
 pricing:
   heading: Monthly subscriptions
